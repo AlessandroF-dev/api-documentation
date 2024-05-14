@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AlessandroF-dev repositories documentation
+title: AlessandroF-dev API Documentation
 ---
 
 # Documentação da API
@@ -23,5 +23,5 @@ Retorna uma lista de recursos.
 
 #### Exemplo de Requisição
 ```bash
-curl -H "Authorization: Bearer seu_token_aqui" https://api.seuservico.com/api/v1/resource](https://alessandrof-dev.github.io/api-documentation/
+curl -H "Authorization: Bearer seu_token_aqui" https://alessandrof-dev.github.io/api-documentation
 ```
