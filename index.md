@@ -24,4 +24,3 @@ Retorna uma lista de recursos.
 #### Exemplo de Requisição
 ```bash
 curl -H "Authorization: Bearer seu_token_aqui" https://alessandrof-dev.github.io/api-documentation
-```
