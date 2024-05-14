@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Documentação da API
 
 ## Introdução
