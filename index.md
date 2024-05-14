@@ -8,6 +8,8 @@ title: Home
 ## Introdução
 Bem-vindo à documentação da API. Esta API permite realizar várias operações.
 
+[Guia de Uso](usage.md)
+
 ## Autenticação
 Para autenticar, você precisa de um token de acesso. Envie o token em cada requisição usando o header `Authorization`.
 
@@ -21,4 +23,4 @@ Retorna uma lista de recursos.
 
 #### Exemplo de Requisição
 ```bash
-curl -H "Authorization: Bearer seu_token_aqui" https://api.seuservico.com/api/v1/resource
+curl -H "Authorization: Bearer seu_token_aqui" https://api.seuservico.com/api/v1/resource](https://alessandrof-dev.github.io/api-documentation/
